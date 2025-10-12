@@ -66,7 +66,7 @@ E --> F[Report & Harden];
 
 ## 📬 ~$ Contacts
 
-📧 Email: [yourname@domain.com](mailto:funbinet@gmail.com)
+📧 Email: [email-me](mailto:funbinet@gmail.com)
 🐙 GitHub: [Funbin](https://github.com/funbinet)
 
 ---
