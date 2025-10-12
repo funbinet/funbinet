@@ -1,4 +1,4 @@
-![banner](funn.png)
+![banner](funbin.png)
 # 👨‍💻 Funbin
 
 ![Funbin Signature](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=25\&duration=4500\&pause=1000\&color=149414\&width=400\&lines=Automation+is+not+luxury;It+is+Survival.)
