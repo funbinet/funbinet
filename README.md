@@ -1,17 +1,17 @@
-# 👨‍💻 Funinet — Cybersecurity, Red Teaming & Automation
+# 👨‍💻 Funbin
 
-> *“In the realm of code and chaos, I engineer precision.”*
+> *“Automation is not luxury — it's survival.”*
 
 ---
 
 ## 🧠 About Me
 
-I’m **Fan Binet**, a cybersecurity researcher, red team operator, and automation enthusiast. I script, test, and fortify — from reconnaissance to post-exploitation — with ethical precision and technical rigor.
+I’m **Funbin**, a cybersecurity researcher, red team operator, and automation enthusiast. I script, test, and fortify — from reconnaissance to post-exploitation — with ethical precision and technical rigor.
 
 💀 **Core Focus:** Penetration Testing | Red Teaming | Ethical Hacking | Bash/Python Automation
-💬 **Ask Me About:** Payload automation, shell scripting, system hardening, or custom tool creation.
-🎯 **Mission:** Craft resilient systems by understanding their weaknesses.
-⚡ **Fun Fact:** I automate everything — even my README updates.
+💬 **Ask Me About:** Payload automation, shell scripting, system hardening, or custom tool creation
+🎯 **Mission:** Craft resilient systems by understanding their weaknesses
+⚡ **Fun Fact:** I automate everything
 
 ---
 
@@ -19,14 +19,14 @@ I’m **Fan Binet**, a cybersecurity researcher, red team operator, and automati
 
 | Language / Skill  | Proficiency |
 | ----------------- | ----------- |
-| 🐍 Python         | 100%         |
+| 🐍 Python         | 100%        |
 | 🌐 HTML           | 100%        |
 | 🎨 CSS            | 100%        |
 | ☕ Java            | 100%        |
-| ⚙️ C              | 900%        |
-| 🧩 C++            | 90%        |
+| ⚙️ C              | 90%         |
+| 🧩 C++            | 90%         |
 | 💻 C#             | 100%        |
-| ⚡ JavaScript      | 90%        |
+| ⚡ JavaScript      | 90%         |
 | 🐚 Bash Scripting | 100%        |
 
 ### Visual Skill Badges
@@ -43,7 +43,7 @@ I’m **Fan Binet**, a cybersecurity researcher, red team operator, and automati
 
 ---
 
-## ⚙️ Workflow: My Offensive & Defensive Process
+## ⚙️ My Workflow
 
 ```mermaid
 graph TD;
@@ -60,39 +60,15 @@ E --> F[Report & Harden];
 
 ## 📊 GitHub Stats
 
-![Fan Binet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FanBinet\&show_icons=true\&count_private=true\&theme=radical\&hide_border=true)
+![Funbin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=funbinet\&show_icons=true\&count_private=true\&theme=radical\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FanBinet\&layout=compact\&theme=radical\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=funbinet\&layout=compact\&theme=radical\&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=FanBinet\&theme=radical\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=funbinet\&theme=radical\&hide_border=true)
 
 ## 🧮 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FanBinet\&theme=react-dark\&hide_border=true)
-
----
-
-## 🧩 Skills & Badges
-
-![Python](https://img.shields.io/badge/Python-70%25-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-100%25-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-100%25-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-100%25-007396?style=for-the-badge\&logo=java\&logoColor=white)
-![C](https://img.shields.io/badge/C-100%25-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-100%25-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-100%25-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-100%25-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-100%25-4EAA25?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
-
----
-
-## 🚀 Projects & Tools
-
-| Project     | Description                                                     |
-| ----------- | --------------------------------------------------------------- |
-| **Docta**   | Hydra-powered orchestrator for ethical brute-force automation   |
-| **Gitx**    | Git utilities & automation toolkit for secure CI/CD integration |
-| **AutoSec** | Custom scripts for automated enumeration & reporting            |
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=funbinet\&theme=react-dark\&hide_border=true)
 
 ---
 
@@ -107,18 +83,16 @@ E --> F[Report & Harden];
 
 ---
 
-## 📬 Contact & Connect
+## 📬 Contact
 
-📧 Email: [yourname@domain.com](mailto:yourname@domain.com)
-🐙 GitHub: [FanBinet](https://github.com/FanBinet)
-🐦 Twitter/X: [@FanBinet](https://twitter.com/FanBinet)
-💼 LinkedIn: [Fan Binet](https://linkedin.com/in/FanBinet)
+📧 Email: [yourname@domain.com](mailto:funbinet@gmail.com)
+🐙 GitHub: [Funbin](https://github.com/funbinet)
 
 ---
 
-## ⚡ Animated SVG Signature
+## Signature
 
-![FanBinet Signature](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&duration=4000\&pause=1000\&color=00FFFF\&width=435\&lines=Cybersecurity+Specialist;Red+Teamer;Penetration+Tester;Automation+Engineer;Building+Digital+Defenses)
+![Funbin Signature](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&duration=4000\&pause=1000\&color=00FFFF\&width=435\&lines=Cybersecurity+Specialist;Red+Teamer;Penetration+Tester;Automation+Engineer;Building+Digital+Defenses)
 
-> *“The quieter you become, the more you hear. The more code you write, the clearer the silence.”*
-> — Fan Binet
+> *“Automation is not luxury — it's survival.”*
+> — Funbin
