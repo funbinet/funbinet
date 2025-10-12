@@ -1,10 +1,10 @@
 ![banner](funbin.png)
 # 👨‍💻 Funbin
 
-![Funbin Signature](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=25\&duration=4500\&pause=1000\&color=149414\&width=400\&lines=Automation+is+not+luxury;It+is+Survival.)
+![Funbin Signature](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=25\&duration=4500\&pause=1000\&color=149414\&width=450\&lines=~$+Automation+is+not+luxury;~$+It+is+Survival;~$+Now+lets+Survive)
 ---
 
-## 🧠 About Me
+## 🧠 ~$ About-Me
 
 I’m **Funbin**, a cybersecurity researcher, red team operator, and automation enthusiast. I script, test, and fortify — from reconnaissance to post-exploitation — with ethical precision and technical rigor.
 
@@ -15,7 +15,7 @@ I’m **Funbin**, a cybersecurity researcher, red team operator, and automation 
 
 ---
 
-## 🧩 Languages & Skills
+## 🧩 ~$ Languages  &$  Skills
 
 ![Python](https://img.shields.io/badge/Python-100%25-149414?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-100%25-149414?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,7 +29,7 @@ I’m **Funbin**, a cybersecurity researcher, red team operator, and automation 
 
 ---
 
-## ⚙️ My Workflow
+## ⚙️ ~$ My-Workflow
 
 ```mermaid
 graph TD;
@@ -44,7 +44,7 @@ E --> F[Report & Harden];
 
 ---
 
-## 📊 GitHub Stats
+## 📊 ~$ GitHub-Stats
 
 ![Funbin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=funbinet\&show_icons=true\&count_private=true\&theme=radical\&hide_border=true)
 
@@ -52,27 +52,27 @@ E --> F[Report & Harden];
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=funbinet\&theme=radical\&hide_border=true)
 
-## 🧮 Contribution Graph
+## 🧮 ~$ Contribution-Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=funbinet\&theme=react-dark\&hide_border=true)
 
 ---
 
-## 🛠️ Toolset & Frameworks
+## 🛠️ ~$ Toolset  &&  Frameworks
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge\&logo=kalilinux\&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-3B82F6?style=for-the-badge\&logo=metasploit\&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-5C5C5C?style=for-the-badge\&logo=gnu-bash\&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge\&logo=burp-suite\&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white) ![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge\&logo=security\&logoColor=white)
 
 ---
 
-## 📬 Contact
+## 📬 ~$ Contacts
 
 📧 Email: [yourname@domain.com](mailto:funbinet@gmail.com)
 🐙 GitHub: [Funbin](https://github.com/funbinet)
 
 ---
 
-## Signature
+## ~$ whoami
 
 ![Funbin Signature](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&duration=4000\&pause=1000\&color=00aeff\&width=500\&lines=Cybersecurity+Specialist;Red+Teamer;Penetration+Tester;Automation+Engineer;Building+Digital+Defenses)
 
-> — Funbin
+> ~$ Funbin
