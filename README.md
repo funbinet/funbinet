@@ -19,14 +19,14 @@ I’m **Fan Binet**, a cybersecurity researcher, red team operator, and automati
 
 | Language / Skill  | Proficiency |
 | ----------------- | ----------- |
-| 🐍 Python         | 70%         |
+| 🐍 Python         | 100%         |
 | 🌐 HTML           | 100%        |
 | 🎨 CSS            | 100%        |
 | ☕ Java            | 100%        |
-| ⚙️ C              | 100%        |
-| 🧩 C++            | 100%        |
+| ⚙️ C              | 900%        |
+| 🧩 C++            | 90%        |
 | 💻 C#             | 100%        |
-| ⚡ JavaScript      | 100%        |
+| ⚡ JavaScript      | 90%        |
 | 🐚 Bash Scripting | 100%        |
 
 ### Visual Skill Badges
