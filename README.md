@@ -1,7 +1,7 @@
+![banner](fun.png)
 # 👨‍💻 Funbin
 
-> *“Automation is not luxury — it's survival.”*
-
+![Funbin Signature](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=25\&duration=4500\&pause=1000\&color=149414\&width=400\&lines=Automation+is+not+luxury;It+is+Survival.)
 ---
 
 ## 🧠 About Me
@@ -17,29 +17,15 @@ I’m **Funbin**, a cybersecurity researcher, red team operator, and automation 
 
 ## 🧩 Languages & Skills
 
-| Language / Skill  | Proficiency |
-| ----------------- | ----------- |
-| 🐍 Python         | 100%        |
-| 🌐 HTML           | 100%        |
-| 🎨 CSS            | 100%        |
-| ☕ Java            | 100%        |
-| ⚙️ C              | 90%         |
-| 🧩 C++            | 90%         |
-| 💻 C#             | 100%        |
-| ⚡ JavaScript      | 90%         |
-| 🐚 Bash Scripting | 100%        |
-
-### Visual Skill Badges
-
-![Python](https://img.shields.io/badge/Python-100%25-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-100%25-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-100%25-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-100%25-007396?style=for-the-badge\&logo=java\&logoColor=white)
-![C](https://img.shields.io/badge/C-90%25-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-90%25-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-100%25-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-90%25-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-100%25-4EAA25?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-100%25-149414?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-100%25-149414?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-100%25-149414?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-100%25-149414?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-90%25-149414?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-90%25-149414?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-100%25-149414?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-90%25-149414?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-100%25-149414?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
@@ -74,12 +60,7 @@ E --> F[Report & Harden];
 
 ## 🛠️ Toolset & Frameworks
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge\&logo=kalilinux\&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-3B82F6?style=for-the-badge\&logo=metasploit\&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-5C5C5C?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge\&logo=burp-suite\&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge\&logo=security\&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge\&logo=kalilinux\&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-3B82F6?style=for-the-badge\&logo=metasploit\&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-5C5C5C?style=for-the-badge\&logo=gnu-bash\&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge\&logo=burp-suite\&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white) ![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge\&logo=security\&logoColor=white)
 
 ---
 
@@ -92,7 +73,6 @@ E --> F[Report & Harden];
 
 ## Signature
 
-![Funbin Signature](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&duration=4000\&pause=1000\&color=00FFFF\&width=435\&lines=Cybersecurity+Specialist;Red+Teamer;Penetration+Tester;Automation+Engineer;Building+Digital+Defenses)
+![Funbin Signature](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&duration=4000\&pause=1000\&color=00aeff\&width=500\&lines=Cybersecurity+Specialist;Red+Teamer;Penetration+Tester;Automation+Engineer;Building+Digital+Defenses)
 
-> *“Automation is not luxury — it's survival.”*
 > — Funbin
