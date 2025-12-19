@@ -1,12 +1,12 @@
 ![banner](funbin.png)
-# 👨‍💻 Funbin
+# 👨‍💻 Funbinet
 
 ![Funbin Signature](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=25\&duration=4500\&pause=1000\&color=149414\&width=450\&lines=~$+Automation+is+not+luxury;~$+It+is+Survival;~$+Now+lets+Survive)
 ---
 
 ## 🧠 ~$ About-Me
 
-I’m **Funbin**, a cybersecurity researcher, red team operator, and automation enthusiast. I script, test, and fortify — from reconnaissance to post-exploitation — with ethical precision and technical rigor.
+I’m **Dancan**, a cybersecurity researcher, red team operator, and automation enthusiast. I script, test, and fortify — from reconnaissance to post-exploitation — with ethical precision and technical rigor.
 
 💀 **Core Focus:** Penetration Testing | Red Teaming | Ethical Hacking | Bash/Python Automation
 💬 **Ask Me About:** Payload automation, shell scripting, system hardening, or custom tool creation
@@ -50,8 +50,6 @@ E --> F[Report & Harden];
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=funbinet\&layout=compact\&theme=radical\&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=funbinet\&theme=radical\&hide_border=true)
-
 ## 🧮 ~$ Contribution-Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=funbinet\&theme=react-dark\&hide_border=true)
@@ -75,4 +73,4 @@ E --> F[Report & Harden];
 
 ![Funbin Signature](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&duration=4000\&pause=1000\&color=00aeff\&width=500\&lines=Cybersecurity+Specialist;Red+Teamer;Penetration+Tester;Automation+Engineer;Building+Digital+Defenses)
 
-> ~$ Funbin
+> ~$ Funbinet
