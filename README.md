@@ -1,35 +1,30 @@
-![banner](funbin.png)
-# 👨‍💻 Funbinet
+<p align="center"> <img src="funbinet.png" alt="funbinet" width="200"/> </p>
 
-![Funbin Signature](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=25\&duration=4500\&pause=1000\&color=149414\&width=450\&lines=~$+Automation+is+not+luxury;~$+It+is+Survival;~$+Now+lets+Survive)
----
+<h1 align="center">FUNBINET</h1>
 
-## 🧠 ~$ About-Me
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=149414&center=true&vCenter=true&width=600&lines=Cybersecurity+Student+at+Chuka+University;Red+Team+Automation+Developer;Penetration+Testing+Enthusiast" alt="Typing SVG" /> </p>
 
-I’m **Dancan**, a cybersecurity researcher, red team operator, and automation enthusiast. I script, test, and fortify — from reconnaissance to post-exploitation — with ethical precision and technical rigor.
+<p align="center"> <a href="https://codeberg.org/funbinet"> <img src="https://img.shields.io/badge/Platform-Linux-557C94?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/> </a> </p>
 
-💀 **Core Focus:** Penetration Testing | Red Teaming | Ethical Hacking | Bash/Python Automation
-💬 **Ask Me About:** Payload automation, shell scripting, system hardening, or custom tool creation
-🎯 **Mission:** Craft resilient systems by understanding their weaknesses
-⚡ **Fun Fact:** I automate everything
+<h3 align="center">ABOUT ME</h3>
 
----
+<p align="center"> I am a Computer Science student at Chuka University specializing in Cybersecurity. My work focuses on the intersection of offensive security and automation. I develop custom toolsets and frameworks designed to streamline reconnaissance, vulnerability assessment, and post-exploitation workflows. </p>
 
-## 🧩 ~$ Languages  &$  Skills
+<p align="center"> <strong>Academic Focus:</strong> B.Sc. in Computer Science (Chuka University)</p>
 
-![Python](https://img.shields.io/badge/Python-100%25-149414?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-100%25-149414?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-100%25-149414?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-100%25-149414?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-90%25-149414?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-90%25-149414?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-100%25-149414?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-90%25-149414?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-100%25-149414?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<p align="center"> <strong>Specialization:</strong> Red Teaming, Penetration Testing, and Bash/Python Automation </p>
 
----
+<p align="center"> <strong>Top Projects:</strong> <a href="https://codeberg.org/funbinet">Leviathan & Omnisec</a> </p>
 
-## ⚙️ ~$ My-Workflow
+<h3 align="center">LANGUAGES AND SKILLS</h3>
+
+<p align="center"> <img src="https://img.shields.io/badge/Python-149414?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-149414?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/C-149414?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C++-149414?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Java-149414?style=for-the-badge&logo=java&logoColor=white" /> </p> <p align="center"> <img src="https://img.shields.io/badge/JavaScript-149414?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-149414?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-149414?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-149414?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-149414?style=for-the-badge&logo=css3&logoColor=white" /> </p>
+
+<h3 align="center">SECURITY TOOLSET</h3>
+
+<p align="center"> <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white" /> <img src="https://img.shields.io/badge/Metasploit-3B82F6?style=flat-square&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/Nmap-5C5C5C?style=flat-square&logo=nmap&logoColor=white" /> <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" /> </p>
+
+<h3 align="center">TECHNICAL WORKFLOW</h3>
 
 ```mermaid
 graph TD;
@@ -37,40 +32,24 @@ A[Reconnaissance] --> B[Vulnerability Discovery];
 B --> C[Exploit Development];
 C --> D[Privilege Escalation];
 D --> E[Persistence Simulation];
-E --> F[Report & Harden];
+E --> F[Report Generation];
+F --> G[System Hardening];
+G --> H[Verification & Retesting];
 ```
 
-**Philosophy:** Understand systems like an attacker, defend them like an engineer.
 
----
+<h3 align="center">ACTIVITY AND ENGAGEMENT</h3>
 
-## 📊 ~$ GitHub-Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=funbinet&layout=compact&theme=radical&hide_border=true" /> </p>
 
-![Funbin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=funbinet\&show_icons=true\&count_private=true\&theme=radical\&hide_border=true)
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=funbinet&theme=react-dark&hide_border=true" /> </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=funbinet\&layout=compact\&theme=radical\&hide_border=true)
+<h3 align="center">CONTACT AND VERIFICATION</h3>
 
-## 🧮 ~$ Contribution-Graph
+<p align="center"> <strong>Email:</strong> <a href="mailto:funbinet@gmail.com">funbinet@gmail.com</a> </p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=funbinet\&theme=react-dark\&hide_border=true)
+<p align="center"> <strong>Primary Development:</strong> <a href="https://codeberg.org/funbinet">Codeberg/funbinet</a> </p>
 
----
+<p align="center"> <strong>Legacy Mirrors:</strong> <a href="https://github.com/funbinet">GitHub/funbinet</a> </p>
 
-## 🛠️ ~$ Toolset  &&  Frameworks
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge\&logo=kalilinux\&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-3B82F6?style=for-the-badge\&logo=metasploit\&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-5C5C5C?style=for-the-badge\&logo=gnu-bash\&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge\&logo=burp-suite\&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white) ![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge\&logo=security\&logoColor=white)
-
----
-
-## 📬 ~$ Contacts
-
-📧 Email: [Mail-me](mailto:funbinet@gmail.com)
-🐙 GitHub: [Funbinet](https://github.com/funbinet)
-
----
-
-## ~$ whoami
-
-![Funbin Signature](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&duration=4000\&pause=1000\&color=00aeff\&width=500\&lines=Cybersecurity+Specialist;Red+Teamer;Penetration+Tester;Automation+Engineer;Building+Digital+Defenses)
-
-> ~$ Funbinet
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=149414&center=true&vCenter=true&width=600&lines=Securing+Systems;Automating+The+Future;Developing+Leviathan;Developing+Omnisec" alt="Typing SVG" /> </p>
