@@ -4,7 +4,12 @@
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=149414&center=true&vCenter=true&width=600&lines=Cybersecurity+Student+at+Chuka+University;Red+Team+Automation+Developer;Penetration+Testing+Enthusiast" alt="Typing SVG" /> </p>
 
-<p align="center"> <a href="https://codeberg.org/funbinet"> <img src="https://img.shields.io/badge/Platform-Linux-557C94?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/> </a> </p>
+<p align="center"> 
+  <a href="https://codeberg.org/funbinet"> <img src="https://img.shields.io/badge/Platform-Linux-557C94?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/> </a> 
+  <a href="mailto:funbinet@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 <h3 align="center">ABOUT ME</h3>
 
