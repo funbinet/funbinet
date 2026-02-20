@@ -19,7 +19,8 @@
 
 <p align="center"> <strong>Specialization:</strong> Red Teaming, Penetration Testing, and Bash/Python Automation </p>
 
-<p align="center"> <strong>Top Projects:</strong> <a href="https://codeberg.org/funbinet">Leviathan & Omnisec</a> </p>
+
+<p align="center"> <strong>Primary Assets:</strong> <a href="https://github.com/unit205">GITHUB</a> | <a href="https://codeberg.org/unit205">CODEBERG</a> </p>
 
 <h3 align="center">LANGUAGES AND SKILLS</h3>
 
@@ -44,8 +45,6 @@ G --> H[Verification & Retesting];
 
 
 <h3 align="center">ACTIVITY AND ENGAGEMENT</h3>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=funbinet&layout=compact&theme=radical&hide_border=true" /> </p>
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=funbinet&theme=react-dark&hide_border=true" /> </p>
 
