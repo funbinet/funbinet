@@ -13,7 +13,7 @@
 
 <h3 align="center">ABOUT ME</h3>
 
-<p align="center"> I am a Computer Science student at Chuka University specializing in Cybersecurity. My work focuses on the intersection of offensive security and automation. I develop custom toolsets and frameworks designed to streamline reconnaissance, vulnerability assessment, and post-exploitation workflows. </p>
+<p align="center"> I am a Computer Scientist specializing in Cybersecurity. My work focuses on the intersection of offensive security and automation. I develop custom toolsets and frameworks designed to streamline reconnaissance, vulnerability assessment, and post-exploitation workflows. </p>
 
 <p align="center"> <strong>Academic Focus:</strong> B.Sc. in Computer Science (Chuka University)</p>
 
