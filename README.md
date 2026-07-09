@@ -1,4 +1,4 @@
-<p align="center"> <img src="funbinet.png" alt="funbinet" width="200"/> </p>
+<p align="center"> <img src="about.png" alt="funbinet" width="200"/> </p>
 
 <h1 align="center">FUNBINET</h1>
 
