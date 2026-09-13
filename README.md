@@ -1,5 +1,5 @@
 <div align="center">
-<p> <img src="funbinet.png" alt="funbinet" width="200"/> </p>
+<p> <img src="about.png" alt="funbinet" width="200"/> </p>
 
 
 <a href="https://github.com/funbinet">
