@@ -50,8 +50,6 @@ role:       IAM Engineer
 focus:      Identity Security · Access Governance · Automation
 degree:     B.Sc. Computer Science - Chuka University
 location:   Kenya
-philosophy: "Prove who someone is. Decide what they can do.
-            Show the evidence afterwards."
 ```
 
 I design, automate, and defend **identity systems**, the layer every
