@@ -48,23 +48,19 @@
 name:       Funbinet
 role:       IAM Engineer
 focus:      Identity Security · Access Governance · Automation
-degree:     B.Sc. Computer Science — Chuka University
+degree:     B.Sc. Computer Science - Chuka University
 location:   Kenya
 philosophy: "Prove who someone is. Decide what they can do.
-             Show the evidence afterwards."
+            Show the evidence afterwards."
 ```
 
-I design, automate, and defend **identity systems** — the layer every
+I design, automate, and defend **identity systems**, the layer every
 organisation trusts to answer two questions: *Who are you?* and *What are
 you allowed to do?*
 
 My background in offensive security gives me an attacker's eye. I now apply
 that same adversarial mindset to **building identity infrastructure that
-resists abuse** — not just detecting it after the fact.
-
-**Currently:** completing a 60-day intensive IAM engineering programme
-covering Microsoft Entra ID, AWS IAM, Keycloak, Samba AD DC, and identity
-automation with Python and PowerShell.
+resists abuse**, not just detecting it after the fact.
 
 </td>
 </tr>
@@ -303,46 +299,12 @@ automation with Python and PowerShell.
 
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=&message=CURRENT%20FOCUS&color=149414&labelColor=0D1117&style=for-the-badge" height="28" alt="Current Focus"/>
-</p>
-
-```mermaid
-
-%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#149414', 'primaryTextColor': '#ffffff', 'primaryBorderColor': '#149414', 'lineColor': '#30363d', 'secondaryColor': '#161b22', 'tertiaryColor': '#0d1117', 'background': '#0d1117', 'mainBkg': '#0d1117', 'gridColor': '#30363d'}}}%%
-gantt
-    title 60-Day IAM Engineering Roadmap
-    dateFormat YYYY-MM-DD
-    axisFormat %b %d
-    section Foundations
-    Identity Fundamentals       :done,    f1, 2026-01-01, 7d
-    Active Directory and Entra  :active,  f2, after f1, 7d
-    section Applied IAM
-    Entra Administration        :         f3, after f2, 7d
-    SSO and Federation          :         f4, after f3, 7d
-    section Cloud and Automation
-    AWS IAM                     :         f5, after f4, 7d
-    Lifecycle Automation        :         f6, after f5, 7d
-    section Security and Operations
-    Detection and Response      :         f7, after f6, 7d
-    Professional Operations     :         f8, after f7, 7d
-    section Career
-    Portfolio and Applications  :         f9, after f8, 4d
-```
-
-<br/>
-
----
-
-<br/>
-
-
-<p align="center">
   <img src="https://img.shields.io/static/v1?label=&message=ENGINEERING%20PHILOSOPHY&color=149414&labelColor=0D1117&style=for-the-badge" height="28" alt="Engineering Philosophy"/>
 </p>
 
 <p align="center">
   <em>"Identity is the new perimeter. Every access decision is a security<br/>
-  decision — and every security decision must be provable."</em>
+  decision, and every security decision must be provable."</em>
 </p>
 
 <p align="center">
@@ -406,9 +368,6 @@ gantt
   </a>
 </p>
 
-<p align="center">
-  <sub>Primary development on <a href="https://codeberg.org/funbinet">Codeberg</a> &nbsp;·&nbsp; GitHub mirrors maintained for visibility.</sub>
-</p>
 
 <br/>
 
@@ -416,5 +375,5 @@ gantt
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:149414&height=110&section=footer" width="100%" alt="Footer"/>
   <br/>
-  <sub><i>Building identity systems that earn trust — one access decision at a time.</i></sub>
+  <sub>Funbinet Inc.</sub>
 </div>
