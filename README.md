@@ -45,7 +45,7 @@
 <td width="55%" valign="top">
 
 ```yaml
-name:       Funbinet
+name:       Dancan Dominic
 role:       IAM Engineer
 focus:      Identity Security · Access Governance · Automation
 degree:     B.Sc. Computer Science
@@ -324,7 +324,7 @@ resists abuse**, not just detecting it after the fact.
 <table align="center" width="100%" border="0" cellspacing="4" cellpadding="6">
 <tr>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/static/v1?label=&message=Junior%20IAM%20Engineer&color=149414&labelColor=0D1117&style=for-the-badge&logo=target&logoColor=white" alt="Junior IAM Engineer"/>
+  <img src="https://img.shields.io/static/v1?label=&message=IAM%20Engineer&color=149414&labelColor=0D1117&style=for-the-badge&logo=target&logoColor=white" alt="IAM Engineer"/>
 </td>
 <td align="center" width="25%">
   <img src="https://img.shields.io/static/v1?label=&message=IAM%20Analyst&color=0078D4&labelColor=0D1117&style=for-the-badge&logo=target&logoColor=white" alt="IAM Analyst"/>
@@ -372,5 +372,5 @@ resists abuse**, not just detecting it after the fact.
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:149414&height=110&section=footer" width="100%" alt="Footer"/>
   <br/>
-  <sub>Funbinet Inc.</sub>
+  <sub>Dancan Dominic · IAM Engineer</sub>
 </div>
