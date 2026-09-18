@@ -48,7 +48,7 @@
 name:       Funbinet
 role:       IAM Engineer
 focus:      Identity Security · Access Governance · Automation
-degree:     B.Sc. Computer Science - Chuka University
+degree:     B.Sc. Computer Science
 location:   Kenya
 ```
 
@@ -285,7 +285,6 @@ resists abuse**, not just detecting it after the fact.
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/funbinet/funbinet/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/funbinet/funbinet/output/github-snake.svg"/>
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/funbinet/funbinet/output/github-snake.svg"/>
   </picture>
 </p>
 
@@ -340,7 +339,7 @@ resists abuse**, not just detecting it after the fact.
 </table>
 
 <p align="center">
-  <sub><b>Remote</b> &nbsp;·&nbsp; <b>Hybrid</b> &nbsp;·&nbsp; <b>On-site (Kenya)</b></sub>
+  <sub><b>Remote</b> &nbsp;·&nbsp; <b>Hybrid</b> &nbsp;·&nbsp; <b>On-site</b></sub>
 </p>
 
 <br/>
