@@ -13,7 +13,7 @@
   <a href="https://codeberg.org/funbinet">
     <img src="https://img.shields.io/static/v1?label=Codeberg&message=funbinet&color=2185D0&labelColor=0D1117&style=for-the-badge&logo=codeberg&logoColor=white" alt="Codeberg funbinet"/>
   </a>
-  <a href="mailto:funbinet@gmail.com">
+  <a href="mailto:info@dancan.tech">
     <img src="https://img.shields.io/static/v1?label=Email&message=funbinet&color=EA4335&labelColor=0D1117&style=for-the-badge&logo=gmail&logoColor=white" alt="Email funbinet"/>
   </a>
   <a href="https://github.com/funbinet?tab=followers">
@@ -354,8 +354,8 @@ resists abuse**, not just detecting it after the fact.
 </p>
 
 <p align="center">
-  <a href="mailto:funbinet@gmail.com">
-    <img src="https://img.shields.io/static/v1?label=Email&message=funbinet@gmail.com&color=EA4335&labelColor=0D1117&style=for-the-badge&logo=gmail&logoColor=white" alt="Email funbinet@gmail.com"/>
+  <a href="mailto:info@dancan.tech">
+    <img src="https://img.shields.io/static/v1?label=Email&message=info@dancan.tec&color=EA4335&labelColor=0D1117&style=for-the-badge&logo=gmail&logoColor=white" alt="Email info@dancan.tech"/>
   </a>
   <a href="https://github.com/funbinet">
     <img src="https://img.shields.io/static/v1?label=GitHub&message=funbinet&color=181717&labelColor=0D1117&style=for-the-badge&logo=github&logoColor=white" alt="GitHub funbinet"/>
